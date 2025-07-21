@@ -8,7 +8,7 @@ import {FaTwitter} from 'react-icons/fa'
 const HeaderSocials = () => {
   return (
     <div className='header__socials'>
-        <a href='https://www.linkedin.com/in/rohit-varma-070526219/' target="_blank" rel="noreferrer"><BsLinkedin/></a>
+        <a href='https://www.linkedin.com/in/akvrv/' target="_blank" rel="noreferrer"><BsLinkedin/></a>
         <a href='https://github.com/akvrohitvarma' target="_blank" rel="noreferrer"><FaGithub/></a>
         <a href='https://www.instagram.com/i_rohit_varma/' target="_blank" rel="noreferrer"><BsInstagram/></a>
         <a href='https://twitter.com/the_only_varma' target="_blank" rel="noreferrer"><FaTwitter/></a>
